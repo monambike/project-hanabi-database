@@ -1,3 +1,6 @@
+-- I use Xampp for executing my website and database, so you will need to get the following code
+-- and execute it in the "SQL" tab at: http://localhost/phpmyadmin
+
 CREATE DATABASE projecthanabidb;
 
 USE projecthanabidb;
